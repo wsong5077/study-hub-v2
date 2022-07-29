@@ -96,6 +96,9 @@ function Right() {
       <BannerCard>
         <img src="/images/img.jpg" alt="" />
       </BannerCard>
+      <BannerCard>
+        <img src="/images/todo.jpeg" alt="" />
+      </BannerCard>
     </Container>
   );
 }

@@ -213,20 +213,20 @@ function Header(props) {
 				</SignOutMobile>
 				<Nav>
 					<NavListWrap>
-						<NavList className="active">
+						<NavList>
 							<a href="/feed">
 								<img src="/images/nav-home.svg" alt="" />
 								<span>Lounge</span>
 							</a>
 						</NavList>
 						<NavList>
-							<a href="/feed">
+							<a href="/timer">
 								<img src="/images/nav-network.svg" alt="" />
 								<span>Pomodoro</span>
 							</a>
 						</NavList>
 						<NavList>
-							<a href="/feed">
+							<a href="/list">
 								<img src="/images/nav-jobs.svg" alt="" />
 								<span>My To-Do</span>
 							</a>

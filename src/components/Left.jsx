@@ -154,7 +154,22 @@ function Left(props) {
         </UserInfo>
         
       </ArtCard>
-      
+      <CommunityCard>
+          <a>
+             Welcome to our study community!
+             
+          </a>
+          <a>Here is a list of things you can share about here:</a>
+          <a>Looking for study partners!</a>
+          <a>Enjoying your day!</a>
+          <a>Having problems?</a>
+          <a>Random thoughts ...</a>
+          <a>And more!</a>
+
+
+          <a>Contact: ws2694@columbia.edu</a>
+
+      </CommunityCard>
     </Container>
   );
 }
